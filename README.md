@@ -1,0 +1,2 @@
+# Contact-Manager-System
+Contact-Manager-System is Python console based management system.It saves the contact records into text file.It adds records,search records,delete records and update records in text based files.It can also render all records in the file.It's an interactive system which works based on user input.Project used functional programming approach for development and implements filing concepts.
